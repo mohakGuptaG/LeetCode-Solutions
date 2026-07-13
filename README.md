@@ -90,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1212-sequential-digits) |
 | [1291-sequential-digits](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
