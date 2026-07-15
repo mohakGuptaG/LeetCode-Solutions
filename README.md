@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
