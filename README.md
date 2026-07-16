@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
