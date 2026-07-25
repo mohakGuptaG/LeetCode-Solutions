@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
