@@ -4,18 +4,7 @@ class Solution {
         int high = nums.length-1;
         int f = -1, c = -1;
 
-        if(nums.length<=1){
-            int[] ans = new int[2];
-            if(nums.length==1 && nums[0]==target){
-                ans[0] = 0;
-                ans[1] = 0;
-                return ans;
-            }
-
-            ans[0] = -1;
-            ans[1] = -1;
-            return ans;
-        }
+       
         
         while(low<=high){
             int mid = (low+high)/2;
