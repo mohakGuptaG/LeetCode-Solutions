@@ -3,6 +3,10 @@ class Solution {
         int n = nums.length;
         k = k%n;
 
+        if(k==0){
+            return;
+        }
+
         int[] temp = new int[k];
         int j = 0;
         for(int i=n-k; i<n; i++){
