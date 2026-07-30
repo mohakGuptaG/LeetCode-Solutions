@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
