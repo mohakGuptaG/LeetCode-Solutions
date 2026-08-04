@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
