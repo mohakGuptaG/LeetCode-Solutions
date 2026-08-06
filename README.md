@@ -203,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
