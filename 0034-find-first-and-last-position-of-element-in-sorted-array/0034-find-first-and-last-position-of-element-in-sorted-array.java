@@ -3,8 +3,6 @@ class Solution {
         int low = 0;
         int high = nums.length-1;
         int f = -1, c = -1;
-
-       
         
         while(low<=high){
             int mid = (low+high)/2;
@@ -38,12 +36,6 @@ class Solution {
                 start = center+1;
             }
         }
-
-        int[] ans = new int[2];
-        
-        ans[0] = f;
-        ans[1] = c;
-
-        return ans;
+        return new int[]{f,c};
     }
 }
