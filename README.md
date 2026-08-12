@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
