@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
