@@ -34,7 +34,7 @@ class Solution {
             else{
                 ans.append(sb.reverse());
                 ans.append(" ");
-                sb.delete(0, sb.length());
+                sb.setLength(0);
                 flag = true;
             }
         }
