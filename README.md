@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
 |  |
 | ------- |
