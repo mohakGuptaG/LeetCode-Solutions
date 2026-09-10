@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
