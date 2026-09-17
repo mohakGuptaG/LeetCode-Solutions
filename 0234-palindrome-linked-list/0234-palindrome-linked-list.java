@@ -14,26 +14,18 @@ class Solution {
             return true;
         }
 
+        ListNode slow = head;
+        ListNode fast = head;
         int size = 0;
-        ListNode curr = head;
-        
 
-        while(curr!=null){
-            curr = curr.next;
+        while(fast!=null && fast.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
             size++;
         }
 
-        int i=0;
-        ListNode midnode = null;
-        curr = head;
-
-        while(i<size/2){
-            curr = curr.next;
-            i++;
-        }
-
         ListNode prev = null;
-        ListNode cur = curr;
+        ListNode cur = slow;
 
         while(cur!=null){
             ListNode nextnode = cur.next;
@@ -47,7 +39,7 @@ class Solution {
         ListNode r1 = head;
         ListNode r2 = reversehead;
 
-        for(int j=0; j<size/2; j++){
+        for(int j=0; j<size; j++){
             if(r1.val!=r2.val){
                 return false;
             }
