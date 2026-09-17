@@ -14,11 +14,6 @@ class Solution {
             return head;
         }
 
-        if(head.next.next == null){
-            return head.next;
-        }
-
-
         ListNode slow = head;
         ListNode fast = head;
 
