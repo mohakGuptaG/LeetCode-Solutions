@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2050-count-good-numbers](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
