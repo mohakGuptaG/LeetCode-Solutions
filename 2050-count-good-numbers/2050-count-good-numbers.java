@@ -2,11 +2,9 @@ class Solution {
     public static final int mod = 1_000_000_007;
 
     public int countGoodNumbers(long n) {
-        long even = n/2 + n%2;
-        long odd = n/2;
 
-        long evenways = power(5, even);
-        long oddways = power(4, odd);
+        long evenways = power(5, n/2+n%2);
+        long oddways = power(4, n/2);
 
         long total = (evenways * oddways) % mod;
 
