@@ -17,11 +17,6 @@ class Solution {
             }
         }
 
-        if(st.size()>=count){
-            return st.size();
-        }
-        else{
-            return count;
-        }
+        return count;
     }
 }
