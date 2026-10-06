@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0886-score-of-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Manacher
 |  |
 | ------- |
