@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -430,4 +436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
