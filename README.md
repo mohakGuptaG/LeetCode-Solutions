@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0189-rotate-array) |
