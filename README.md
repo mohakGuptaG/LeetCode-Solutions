@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
