@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
 |  |
 | ------- |
