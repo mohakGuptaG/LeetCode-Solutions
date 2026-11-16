@@ -1,8 +1,10 @@
+// Binary Search + Sliding Window 
+
 class Solution {
     public int maxFrequency(int[] nums, int k) {
         
         Arrays.sort(nums);
-        
+
         int[] preSum = new int[nums.length];
 
         preSum[0] = nums[0];
