@@ -1,50 +1,29 @@
-// Binary Search + Sliding Window 
-
 class Solution {
     public int maxFrequency(int[] nums, int k) {
-        
+
         Arrays.sort(nums);
 
-        int[] preSum = new int[nums.length];
-
-        preSum[0] = nums[0];
-
-        for(int i=1; i<nums.length; i++){
-            preSum[i] = preSum[i-1] + nums[i];
-        }
-
+        long currSum = 0;
         int max = 1;
+        int l = 0;
+        long winSum = 0;
 
-        for(int i=nums.length-1; i>0; i--){
-            int freq = bsearch(preSum, nums, i, k);
-            max = Math.max(max, freq);
+        for(int r=0; r<nums.length; r++){
+            currSum +=(long )nums[r];
+
+            winSum = (long)(r-l+1) * nums[r];
+
+            if(winSum - currSum > k){
+                while(winSum - currSum > k){
+                    currSum -= (long)nums[l];
+                    l++;
+                    winSum = (long) nums[r] * (r-l+1);
+                }
+            }
+
+            max = Math.max(max, r-l+1);
         }
 
         return max;
-    }
-
-    public static int bsearch(int[] preSum, int[] nums, int t, int k){
-        int l = 0;
-        int r = t;
-
-        int result = 1;
-
-        while(l<=r){
-            int mid = l + (r-l)/2;
-
-            int count = nums[t] * (t - mid + 1);
-
-            int pos = preSum[t] - preSum[mid] + nums[mid];
-
-            if(k < count - pos){
-                l = mid + 1;
-            }
-            else{
-                result = mid;
-                r = mid - 1;
-            }
-        }
-
-        return t - result + 1;
     }
 }
