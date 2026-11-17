@@ -1,36 +1,33 @@
 class Solution {
     public String frequencySort(String s) {
-        
-        // Step 1: Count the frequencies
-        Map<Character, Integer> freqMap = new HashMap<>();
-        for (char c : s.toCharArray()) {
-            freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
+        int[] freq = new int[256];
+
+        for(int i=0; i<s.length(); i++){
+            freq[s.charAt(i)]++;
         }
 
-        // Step 2: Set up the buckets
-        // Array size is s.length() + 1 because max frequency can be s.length()
-        List<Character>[] buckets = new List[s.length() + 1];
-        
-        // Step 3: Fill the buckets
-        for (char c : freqMap.keySet()) {
-            int freq = freqMap.get(c);
-            if (buckets[freq] == null) {
-                buckets[freq] = new ArrayList<>();
-            }
-            buckets[freq].add(c);
-        }
+        int index = 0;
 
-        // Step 4: Build the final string reading buckets backwards
         StringBuilder sb = new StringBuilder();
-        for (int i = buckets.length - 1; i > 0; i--) {
-            if (buckets[i] != null) {
-                for (char c : buckets[i]) {
-                    // Append the character 'i' times (its frequency)
-                    for (int j = 0; j < i; j++) {
-                        sb.append(c);
-                    }
+
+        while(index < s.length()){
+            int maxChar = 0;
+            int maxFreq = 0;
+
+            for(int i=0; i<freq.length; i++){
+                if(freq[i] > maxFreq){
+                    maxFreq = freq[i];
+                    maxChar = i;
                 }
             }
+
+            for(int j=0; j<maxFreq; j++){
+                char ch = (char) maxChar;
+                sb.append(ch);
+                index++;
+            }
+
+            freq[maxChar] = 0;
         }
 
         return sb.toString();
