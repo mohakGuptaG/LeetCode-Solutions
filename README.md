@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
