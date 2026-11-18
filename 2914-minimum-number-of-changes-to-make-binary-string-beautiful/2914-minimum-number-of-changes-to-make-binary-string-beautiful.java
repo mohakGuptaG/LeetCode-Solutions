@@ -1,15 +1,12 @@
 class Solution {
     public int minChanges(String s) {
-
-        int change = 0;
-
-        for(int i=0, j=1; j<s.length(); i+=2, j+=2){
-
-            if(s.charAt(i)!=s.charAt(j)){
-                change++;
-            }
+        int n = s.length();
+        int cnt = 0;
+        for(int i = 1; i < n; i += 2) {
+            int pc = s.charAt(i - 1);
+            int c = s.charAt(i);
+            if(c != pc) cnt++;
         }
-
-        return change;
+        return cnt;
     }
 }
