@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3583-sorted-gcd-pair-queries) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1288-remove-covered-intervals](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
