@@ -1,41 +1,60 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int low = 0;
-        int high = nums.length-1;
-        int f = -1, c = -1;
-        
-        while(low<=high){
-            int mid = (low+high)/2;
+        int left = 0;
+        int right = nums.length - 1;
 
-            if(nums[mid]==target){
-                f = mid;
-                high = mid-1;
+        int start = -1;
+        int end = -1;
+
+        while(left <= right){
+            int mid = left + (right - left) / 2 ;
+
+            if(nums[mid] == target){
+                start = mid;
+                end = mid;
+
+                while(nums[mid + 1] == target){
+                    end = mid + 1;
+                    mid++;
+                }
+
+                break;
             }
-            else if(nums[mid]<target){
-                low = mid+1;
+            else if(nums[mid] < target){
+                left = mid + 1;
             }
+
             else{
-                high = mid-1;
+                right = mid - 1;
             }
         }
 
-        int start = 0;
-        int end = nums.length-1;
-        
-        while(start<=end){
-            int center = (start+end)/2;
+        left = 0;
+        right = nums.length - 1;
 
-            if(nums[center]==target){
-                c = center;
-                start = center + 1;
+        while(left <= right){
+            int mid = left + (right - left) / 2 ;
+
+            if(nums[mid] == target){
+                start = mid;
+                end = mid;
+
+                while(nums[mid - 1] == target){
+                    start = mid - 1;
+                    mid--;
+                }
+
+                break;
             }
-            else if(nums[center]>target){
-                end = center - 1;
+            else if(nums[mid] < target){
+                left = mid + 1;
             }
+
             else{
-                start = center+1;
+                right = mid - 1;
             }
         }
-        return new int[]{f,c};
+
+        return new int[]{start, end};
     }
 }
