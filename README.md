@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mohakGuptaG/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
