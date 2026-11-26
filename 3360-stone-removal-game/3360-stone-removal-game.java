@@ -7,8 +7,6 @@ class Solution {
             return false;
         }
 
-        if(n == 10) return true;
-
         while(last <= n){
            n = n - last;
            flag = !flag;
